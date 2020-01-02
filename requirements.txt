@@ -6,4 +6,4 @@ MarkupSafe==1.1.1
 Werkzeug==0.15.5
 Keras==2.0.2
 numpy==1.11.3
-scipy==0.19.0tensorflow>=1.15Pillow==4.0.0
+scipy==0.19.0tensorflow>=1.15
