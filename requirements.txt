@@ -7,5 +7,4 @@ Werkzeug==0.15.5
 Keras==2.0.2
 numpy==1.11.3
 scipy==0.19.0
-tensorflow==1.0.1
-Pillow==4.0.0
+tensorflow==1.9Pillow==4.0.0
